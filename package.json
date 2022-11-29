@@ -43,7 +43,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && npm install react-select",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
